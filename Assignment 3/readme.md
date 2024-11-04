@@ -17,9 +17,9 @@ The Generic Pipeline support the following:
 
 5. Can be configured to use any model (if implemented). Supports the loading:
 
-• For CIFAR: resnet18 cifar10 from timm and PreActResNet-18 (from Lab 2) and VGG16 (from Assignment 2).
+    • For CIFAR: resnet18 cifar10 from timm and PreActResNet-18 (from Lab 2) and VGG16 (from Assignment 2).
 
-• For MNIST: MLP and LeNet.
+    • For MNIST: MLP and LeNet.
 
 6. Can be configured to use optimizers such as SGD, SGD with momentum, SGD with nesterov, SGD with weight decay, Adam, AdamW, RmsProp.
 
